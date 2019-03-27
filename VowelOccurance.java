@@ -26,9 +26,12 @@ public class VowelOccurance {
 				}
 			} 
 		}
+		// this loop is checking when not found consonent 
 		if(hM.size()==0) {
 			System.out.println("No Vowel Found In This Sentence ");
 		}
+
+
 		for (Map.Entry<Character, Integer> entry : hM.entrySet()) {
 			System.out.println("Volwel " + entry.getKey() + " is Occur => "
 										 + entry.getValue() + " Time ");
