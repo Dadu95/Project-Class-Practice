@@ -39,6 +39,8 @@ public class VowelOccurance {
 
 	}
 
+	
+
 	public static void main(String[] args) {
 		System.out.println("Enter Any Sentence : ");
 		Scanner sc = new Scanner(System.in);
