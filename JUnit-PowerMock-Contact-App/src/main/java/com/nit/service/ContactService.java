@@ -26,5 +26,5 @@ public class ContactService {
 		System.out.println("private method called");
 		return message;
 	}
-
+              System.out.println("New");
 }
