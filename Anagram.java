@@ -28,6 +28,7 @@ public class Anagram {
 		String S2 = "raJ";
 		
 		System.out.println("String is Anagram : "+isAnagram(S1, S2));
+		System.out.println("New Statements");
 
 	}
 
